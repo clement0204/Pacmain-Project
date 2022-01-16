@@ -376,11 +376,11 @@ def gameplay(level):
         text0 = font0.render("Votre score :",1,(0,0,0))
         screen.blit(text0, (525, 200))        
         text1 = font.render("Nombre d'obstacles évités : {}".format(obstacles_evites),1,(0,0,0))
-        screen.blit(text1, (365, 300))
+        screen.blit(text1, (345, 300))
         text2 = font.render("Nombre d'obstacles touchés : {}".format(obstacles_touches),1,(0,0,0))
-        screen.blit(text2, (365, 350))
+        screen.blit(text2, (345, 350))
         text3 = font.render("Angle maximal de fermeture : {} °".format(angle_max),1,(0,0,0))
-        screen.blit(text3, (365, 400))
+        screen.blit(text3, (345, 400))
 
         pygame.display.update()
 
