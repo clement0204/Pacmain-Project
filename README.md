@@ -73,8 +73,16 @@ Press ```Quitter``` to quit the game.
 
 ![Capture d’écran 2022-01-20 à 13 39 25](https://user-images.githubusercontent.com/93545145/150343019-1ce004af-fb8e-41f4-becb-7bb9765b1a31.png)
 
+In the level selector, you can choose three different levels. Each level corresponds to a different difficulty. Level 1 has been designed for patients
+who are not able to close completely their hands while level 3 is for people who are at the end of their reeducation.
+
+![Capture d’écran 2022-01-20 à 14 06 58](https://user-images.githubusercontent.com/93545145/150344906-9b78dc95-928b-485c-b08f-cca188e5df22.png)
+![Capture d’écran 2022-01-20 à 14 07 09](https://user-images.githubusercontent.com/93545145/150344914-6c179889-a8e2-4774-ae98-5625f8de1fc7.png)
+![Capture d’écran 2022-01-20 à 14 07 20](https://user-images.githubusercontent.com/93545145/150344920-1c2667f2-8547-4294-9764-be1fded8f558.png)
 
 
+
+![Capture d’écran 2022-01-20 à 13 39 47](https://user-images.githubusercontent.com/93545145/150343262-a964c5ec-809f-493d-80a9-928b1ac11bb3.png)
 ## Fabriqué avec
 
 Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
