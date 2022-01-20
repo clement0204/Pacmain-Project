@@ -8,13 +8,20 @@ Project developed by a group of second-year students at CentraleSupélec. The ob
 
 As this project is a serious game with hand movement recognition and retrieval, you will probably need to install the following libraries to run the game without problems: 
 
-### Pré-requis
+### Pre-requisites
 
-Ce qu'il est requis pour commencer avec votre projet...
+The main libraries you'll need are:
 
-- Programme 1
-- Programme 2
-- etc...
+- Pygame
+  ```pip install pygame```
+  
+- Mediapipe
+  ```pip install mediapipe```
+
+- cv2 
+  ```pip install cv2``` 
+  
+If case of 
 
 ### Installation
 
