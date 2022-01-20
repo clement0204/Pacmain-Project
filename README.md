@@ -21,8 +21,20 @@ The main libraries you'll need are:
 - cv2 
   ```pip install cv2``` 
   
-If case of 
+You may also need some basic libraries from python such as:
 
+- Numpy
+  ```pip install install```
+  
+- Pandas 
+  ```pip install pandas``` 
+  
+- Moviepy 
+  ```pip install moviepy```
+  
+ - Xlswriter 
+   ```sudo pip install xlswriter``
+  
 ### Installation
 
 Les étapes pour installer votre programme....
@@ -34,9 +46,9 @@ _exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [..
 
 Ensuite vous pouvez montrer ce que vous obtenez au final...
 
-## Démarrage
+## Starting the game 
 
-Dites comment faire pour lancer votre projet
+To start the game, you simply have to run the ```run.py```file.
 
 ## Fabriqué avec
 
