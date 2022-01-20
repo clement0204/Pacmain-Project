@@ -48,17 +48,26 @@ Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 ## Starting the game 
 
-To start the game, you simply have to run the ```run.py``` file.
+To start the game, you simply have to run the ```run.py``` file. Once it has been done, you will end up in the menu.
 
 ### Menu 
 
-You'll end up in the menu. 3 options are available : 
+![Capture d’écran 2022-01-20 à 13 39 13](https://user-images.githubusercontent.com/93545145/150342304-e96d0e88-4318-456c-8aa8-d85b38df590c.png)
 
->>> Play
->>> Tutorial
->>> Quit
 
-Press ```Quit``` t
+3 options are available: 
+
+1. Play
+2. Tutorial
+3. Quit
+
+Press ```Jouer``` to go to the level selector.
+Press ```Tutorial``` to see the rules of the game
+Press ```Quitter``` to quit the game 
+
+### Level Selector
+
+
 
 ## Fabriqué avec
 
