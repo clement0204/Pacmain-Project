@@ -88,6 +88,7 @@ When the code has been fully runned, you can find in the ```data_aquisition``` f
 
 ![Capture d’écran 2022-01-20 à 14 41 24](https://user-images.githubusercontent.com/93545145/150350018-a1647830-ef8c-498c-81e5-a9ed702fec6a.png)
 
+180° represents a fully closed hand while 0° represents an open hand. 
 
 
 
