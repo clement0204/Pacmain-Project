@@ -3,11 +3,10 @@ Project developed by a group of second-year students at CentraleSupélec. The ob
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-Une petite description du projet
 
-## Pour commencer
+## To get started
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+As this project is a serious game with hand movement recognition and retrieval, you will probably need to install the following libraries to run the game without problems: 
 
 ### Pré-requis
 
