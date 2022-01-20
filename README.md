@@ -71,7 +71,7 @@ Press ```Quitter``` to quit the game.
 
 ### Level Selector
 
-![Capture d’écran 2022-01-20 à 13 39 25](https://user-images.githubusercontent.com/93545145/150343019-1ce004af-fb8e-41f4-becb-7bb9765b1a31.png)
+![Capture d’écran 2022-01-20 à 13 39 25](https://user-images.githubusercontent.com/93545145/150343019-1ce004af-fb8e-41f4-becb-7bb9765b1a31.png "Salut")
 
 In the level selector, you can choose three different levels. Each level corresponds to a different difficulty. Level 1 has been designed for patients
 who are not able to close completely their hands while level 3 is for people who are at the end of their reeducation.
