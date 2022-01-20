@@ -12,28 +12,28 @@ As this project is a serious game with hand movement recognition and retrieval, 
 
 The main libraries you'll need are:
 
-- Pygame
+- *Pygame*
   ```pip install pygame```
   
-- Mediapipe
+- *Mediapipe*
   ```pip install mediapipe```
 
-- cv2 
+- *cv2* 
   ```pip install cv2``` 
   
 You may also need some basic libraries from python such as:
 
-- Numpy
+- *Numpy*
   ```pip install install```
   
-- Pandas 
+- *Pandas* 
   ```pip install pandas``` 
   
-- Moviepy 
+- *Moviepy* 
   ```pip install moviepy```
   
- - Xlswriter 
-   ```sudo pip install xlswriter``
+ - *Xlswriter* 
+   ```sudo pip install xlswriter```
   
 ### Installation
 
@@ -48,7 +48,17 @@ Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 ## Starting the game 
 
-To start the game, you simply have to run the ```run.py```file.
+To start the game, you simply have to run the ```run.py``` file.
+
+### Menu 
+
+You'll end up in the menu. 3 options are available : 
+
+>>> Play
+>>> Tutorial
+>>> Quit
+
+Press ```Quit``` t
 
 ## Fabriqué avec
 
