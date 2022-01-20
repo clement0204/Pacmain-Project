@@ -52,7 +52,8 @@ To start the game, you simply have to run the ```run.py``` file. Once it has bee
 
 ### Menu 
 
-![Capture d’écran 2022-01-20 à 13 39 13](https://user-images.githubusercontent.com/93545145/150342304-e96d0e88-4318-456c-8aa8-d85b38df590c.png)
+
+![Capture d’écran 2022-01-20 à 13 39 13](https://user-images.githubusercontent.com/93545145/150343010-289ecd8d-e99f-4859-bb6c-56b425b0b50e.png)
 
 
 3 options are available: 
@@ -62,10 +63,15 @@ To start the game, you simply have to run the ```run.py``` file. Once it has bee
 3. Quit
 
 Press ```Jouer``` to go to the level selector.
-Press ```Tutorial``` to see the rules of the game
-Press ```Quitter``` to quit the game 
+
+Press ```Tutorial``` to see the rules of the game.
+
+Press ```Quitter``` to quit the game.
+
 
 ### Level Selector
+
+![Capture d’écran 2022-01-20 à 13 39 25](https://user-images.githubusercontent.com/93545145/150343019-1ce004af-fb8e-41f4-becb-7bb9765b1a31.png)
 
 
 
