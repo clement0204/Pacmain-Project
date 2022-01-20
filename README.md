@@ -1,7 +1,7 @@
 # Pacmain-Project
 Project developed by a group of second-year students at CentraleSupélec. The objective was to propose a serious game to help patients who have to do hand rehabilitation exercises.
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
 
 
 ## To get started
@@ -35,20 +35,11 @@ You may also need some basic libraries from python such as:
  - *Xlswriter* 
    ```sudo pip install xlswriter```
   
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 ## Starting the game 
 
 To start the game, you simply have to run the ```run.py``` file. Once it has been done, you will end up in the menu.
+
 
 ### Menu 
 
@@ -62,6 +53,7 @@ To start the game, you simply have to run the ```run.py``` file. Once it has bee
 2. Tutorial
 3. Quit
 
+
 Press ```Jouer``` to go to the level selector.
 
 Press ```Tutorial``` to see the rules of the game.
@@ -74,7 +66,7 @@ Press ```Quitter``` to quit the game.
 ![Capture d’écran 2022-01-20 à 13 39 25](https://user-images.githubusercontent.com/93545145/150343019-1ce004af-fb8e-41f4-becb-7bb9765b1a31.png "Salut")
 
 In the level selector, you can choose three different levels. Each level corresponds to a different difficulty. Level 1 has been designed for patients
-who are not able to close completely their hands while level 3 is for people who are at the end of their reeducation. On the following figure you can see what is expecting for each level (from level 1 to 3):
+who are not able to close completely their hands while level 3 is for people who are at the end of their reeducation. On the following figure you can see what movement is expecting for each level (from level 1 to 3):
 
 ![Capture d’écran 2022-01-20 à 14 06 58](https://user-images.githubusercontent.com/93545145/150345057-3fbad285-9be3-48d6-8c07-e4e032edeaa4.png "Level 1")
 ![Capture d’écran 2022-01-20 à 14 07 09](https://user-images.githubusercontent.com/93545145/150345063-faa101ba-0d30-4637-a815-13dc2e08bd63.png)
@@ -88,11 +80,16 @@ Once your level is chosen, you can start playing !
 
 ## End of the game
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
+When the timer indicates 0s, the game is over. Then appears the score. You can have access to the number of obstacles you have touched, the number you have avoided and finally the maximum hand closure angle you've done. 
 
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+![Capture d’écran 2022-01-20 à 14 32 26](https://user-images.githubusercontent.com/93545145/150348749-5dbf1b1f-ef59-42d7-a201-f4683334ca01.png)
+
+When the code has been fully runned, you can find in the ```data_aquisition``` folder an  excel file called ```scatter.xls``` where you can have access to the variation of the angle of the player's hand over the game time. 
+
+![Capture d’écran 2022-01-20 à 14 41 24](https://user-images.githubusercontent.com/93545145/150350018-a1647830-ef8c-498c-81e5-a9ed702fec6a.png)
+
+
+
 
 
 ## Auteurs
